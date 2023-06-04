@@ -105,7 +105,7 @@ const config = {
                 href: "/docs/templates/base-template#practice-of-music-grade-5",
               },
               {
-                label: "Eenglish Victorian High Ability Program",
+                label: "English Victorian High Ability Program",
                 href: "/docs/templates/base-template#english-victorian-high-ability-program",
               },
             ],
