@@ -8,6 +8,14 @@ sidebar_position: 2
 
 ![CERTIFICATE of participation](./img/cer8.png)
 
+## 2023 Academic Award
+
+![CERTIFICATE of participation](./img/2023_academic_reword.png)
+
+## 2023 Art Award
+
+![CERTIFICATE of participation](./img/2023_art_award.png)
+
 ## English Victorian High-Ability Program
 
 ![CERTIFICATE of participation](./img/cer1.png)
